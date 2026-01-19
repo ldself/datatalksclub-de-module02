@@ -8,7 +8,7 @@ SQL query solutions
 
 SELECT
 count(*)
-FROM `dtc-de-course-484604.ny_taxi_ds_lds.yellos_tripdata` 
+FROM `dtc-de-course-484604.ny_taxi_ds_lds.yellow_tripdata` 
 WHERE filename like 'yellow_tripdata_2020%'
 
 
