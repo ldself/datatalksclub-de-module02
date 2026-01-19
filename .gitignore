@@ -135,9 +135,12 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+service-account.json
 .env
+.env_encoded
 .envrc
 .venv
+.keys
 env/
 venv/
 ENV/
