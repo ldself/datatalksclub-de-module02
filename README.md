@@ -67,4 +67,8 @@ This repository serves as the submission for the Module 02 homework. All SQL que
 
 ---
 
+## Author
+
+[ldself](https://github.com/ldself)
+
 *This is a homework submission for the DataTalks.Club Data Engineering Zoomcamp*
